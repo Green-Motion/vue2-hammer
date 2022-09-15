@@ -1,3 +1,9 @@
+### Note:
+
+This repo is read-only and intended to provide backward compatibility only.
+
+
+
 # vue-hammer
 
 Hammer.js wrapper for Vue to support some operation in the mobile
